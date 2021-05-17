@@ -1,1 +1,2 @@
-# PROJECT-40
+# fruit-collector
+whitehat jr. project 40
